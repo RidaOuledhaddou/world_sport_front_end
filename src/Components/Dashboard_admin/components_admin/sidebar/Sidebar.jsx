@@ -13,6 +13,7 @@ const Sidebar = () => {
 
   return (
     <>
+        /* left from page Dashboard */
         <div className="Sidebar">
             <div className="logo">
                 <img src={Logo} alt='' />
