@@ -5,6 +5,7 @@ import CustomerReview from '../CustomerReview/CustomerReview'
 const RightSide = () => {
   return (
     <>
+      /* Right Side From page Dashboard */
         <div className="RightSide">
             <div>
                 <h3>The New Customers</h3>
