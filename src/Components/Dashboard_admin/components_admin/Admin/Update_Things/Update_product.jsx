@@ -15,7 +15,8 @@ const Update_product = () => {
   }
 
   return (
-    <>
+    <> 
+      /* Update products */
             <header className="navbar">
                 <div className="container">
                     <div className="nav-wrapper grid p-2">
