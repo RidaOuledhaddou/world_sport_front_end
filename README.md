@@ -32,7 +32,9 @@ cd ../client
 npm install
 npm start
 ```
-
+![World Sport Screenshot](![Capture d’écran_6-6-2024_161422_localhost](https://github.com/RidaOuledhaddou/world_sport/assets/142796266/14952366-6395-4c83-a40a-312dc8bc76f4)
+)
+)
 ## Usage
 Utilize World Sport to:
 - **Manage Products:** Easily add, update, and remove products.
