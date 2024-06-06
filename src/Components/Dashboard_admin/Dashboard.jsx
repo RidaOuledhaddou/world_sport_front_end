@@ -7,6 +7,7 @@ import Sidebar from './components_admin/sidebar/Sidebar'
 const Dashboard = () => {
   return (
     <>
+      /*Dashboard Admin*/
     <div className='Dashboard'>
       <div className="DashboardGlass">
           <Sidebar />
