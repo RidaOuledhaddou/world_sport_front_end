@@ -8,7 +8,8 @@
 **World Sport** is a robust eCommerce platform designed specifically for sports supplement stores. 
 This system provides functionalities for product management, order processing, and customer engagement, ensuring an efficient and user-friendly shopping experience.
 
-![World Sport Screenshot](![Capture d’écran_2-6-2024_5415_localhost](https://github.com/RidaOuledhaddou/world_sport/assets/142796266/c9da19fe-44f5-4607-a409-ca1d1b5f8d94)
+
+
 )
 
 ## Installation
@@ -32,7 +33,7 @@ cd ../client
 npm install
 npm start
 ```
-![World Sport Screenshot](![Capture d’écran_6-6-2024_161422_localhost](https://github.com/RidaOuledhaddou/world_sport/assets/142796266/14952366-6395-4c83-a40a-312dc8bc76f4)
+
 )
 )
 ## Usage
